@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Kulisekmatej
 - 👀 I’m interested in Table tennis,programming,coding and playing games
-- 🌱 I’m currently learning html,css,php,java
+- 🌱 I’m currently learning HTML,CSS,PHP,java,AI
 - 📫 How to reach me matej.kulisek99@icloud.com
 - 😄 Pronouns: XYZ
 - ⚡ Fun fact: XYZ
+- My AI model : https://chatgpt.com/g/g-6837f7d7660c8191808322ef73c6b31b-skolni-asistent-hloubkovy-vyklad
 <!---
-Kulisekmatej/Kulisekmatej is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
